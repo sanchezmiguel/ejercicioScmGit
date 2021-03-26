@@ -1,1 +1,6 @@
-# ejercicio Scm Git
+# Ejercicio Scm Git
+
+## Listado de Juegos
+
+* Tetris
+* AOE
