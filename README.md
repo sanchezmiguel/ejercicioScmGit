@@ -11,3 +11,6 @@
 * Dark Souls
 * Genshin Impact
 * Mass Effect
+* Baldur's Gate
+* Child of Light
+* Chrono Trigger
