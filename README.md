@@ -2,7 +2,6 @@
 
 ## Listado de Juegos
 
-* Tetris
 * AOE
 * Rummikub
 
