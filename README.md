@@ -4,3 +4,4 @@
 
 * Tetris
 * AOE
+* Rummikub
