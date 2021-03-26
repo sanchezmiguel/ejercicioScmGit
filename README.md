@@ -9,3 +9,5 @@
 ## RPG
 * The Witcher3: Wild Hunt
 * Dark Souls
+* Genshin Impact
+* Mass Effect
