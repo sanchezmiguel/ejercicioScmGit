@@ -7,4 +7,4 @@
 * Rummikub
 
 ## RPG
-* Witcher 3
+* The Witcher3: Wild Hunt
